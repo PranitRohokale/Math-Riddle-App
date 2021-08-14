@@ -7,7 +7,7 @@ The answers of Riddles and current level status are all stored in locally in Hiv
 
 ## Snapshots
 
-<img src="https://github.com/PranitRohokale/Math-Riddle-App/blob/main/images/home.png"  width="250" height="450" /> &nbsp;  &nbsp;<img src="https://github.com/PranitRohokale/Math-Riddle-App/blob/main/images/quiz.png"  width="250" height="450" /> &nbsp; &nbsp; <img src="https://github.com/PranitRohokale/Math-Riddle-App/blob/main/images/levels.png"  width="250" height="450" />
+<img src="https://github.com/PranitRohokale/Math-Riddle-App/blob/main/images/home.png"  width="250" height="550" /> &nbsp;  &nbsp;<img src="https://github.com/PranitRohokale/Math-Riddle-App/blob/main/images/quiz.png"  width="250" height="550" /> &nbsp; &nbsp; <img src="https://github.com/PranitRohokale/Math-Riddle-App/blob/main/images/levels.png"  width="250" height="550" />
 <hr>
 
 ## Made by
